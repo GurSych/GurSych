@@ -3,7 +3,7 @@
 <br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ⸜(｡˃ ᵕ ˂ )⸝♡
 
 <details>
-<summary>More info about me</summary>
+<summary>More information about me</summary>
   
 + 🙋‍♂️ Full name: Daniil Gurchin-Sychev (Даниил Гурчин-Сычёв)
 + 🎂 Birth date: 19th of April
