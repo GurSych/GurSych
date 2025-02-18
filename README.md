@@ -6,7 +6,7 @@
 | Rank | Language      | Relation                               |
 |-----:|---------------|----------------------------------------|
 |     1| C++           | The world's best language ♡            |
-|     2| Swift         | Very powerful, especially with SwiftUI |
+|     2| Swift         | Very powerful especially with SwiftUI  |
 |     3| Python        | Very cool but he hides a lot           |
 
 # 💻 Tech Stack:
