@@ -1,7 +1,7 @@
 # 💫 About Me:
 **こんにちは!** (ノ^∇^)
 <br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ⸜(｡˃ ᵕ ˂ )⸝♡
-<br>Me working late at night: (◐ω◑)
+<br>Me working late at night: ｡☾ ﾟ⋆｡ (◐ω◑) ｡ ﾟ☁︎｡ ⋆｡ ﾟ
 <br>_Let's code and listen AJR songs!_ 
 | Rank | Language      | Relation                               |
 |-----:|---------------|----------------------------------------|
@@ -19,7 +19,7 @@ Place for some more information◝(ᵔᗜᵔ)◜
 <details>
 <summary>About C++</summary>
 My C++ code style is like code below
-
+  
 ```cpp
 #include <iostream>
 
@@ -33,4 +33,3 @@ int main() {
 <summary>ワイフ</summary>
 <img src="purah.jpg" alt="Purah">
 </details>
-｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ﾟ☁︎｡ ⋆｡
