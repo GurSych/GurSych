@@ -1,15 +1,36 @@
 # 💫 About Me:
-こんにちは!<br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ^^
-
+**こんにちは!** (ノ^∇^)
+<br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ⸜(｡˃ ᵕ ˂ )⸝♡
+<br>Me working late at night: (◐ω◑)
+<br>_Let's code abd listen AJR songs!_ 
+| Rank | Language      | Relation                               |
+|-----:|---------------|----------------------------------------|
+|     1| C++           | The world's best language ♡            |
+|     2| Swift         | Very powerful, especially with SwiftUI |
+|     3| Python        | Very cool but he hides a lot           |
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GurSych&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GurSych&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurSych&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GurSych&theme=git-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+# 😎 Some more words
+Place for some more information◝(ᵔᗜᵔ)◜
+<details>
+<summary>About C++</summary>
+My C++ code style is like code below
 
----
-[![](https://visitcount.itsvg.in/api?id=GurSych&icon=0&color=4)](https://visitcount.itsvg.in)
+```cpp
+#include <iostream>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+int main() {
+  std::cout << "Hello GitHub" << std::endl;
+  return 0;
+}
+```
+</details>
+<details>
+<summary>ワイフ</summary>
+<img src="purah.jpg" alt="Purah">
+</details>
+<br>｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ﾟ☁︎｡ ⋆｡
