@@ -2,7 +2,7 @@
 **こんにちは!** (ノ^∇^)
 <br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ⸜(｡˃ ᵕ ˂ )⸝♡
 <br>Me working late at night: (◐ω◑)
-<br>_Let's code abd listen AJR songs!_ 
+<br>_Let's code and listen AJR songs!_ 
 | Rank | Language      | Relation                               |
 |-----:|---------------|----------------------------------------|
 |     1| C++           | The world's best language ♡            |
@@ -24,7 +24,7 @@ My C++ code style is like code below
 #include <iostream>
 
 int main() {
-  std::cout << "Hello GitHub" << std::endl;
+  std::cout << "Hello GitHub!" << std::endl;
   return 0;
 }
 ```
@@ -33,4 +33,4 @@ int main() {
 <summary>ワイフ</summary>
 <img src="purah.jpg" alt="Purah">
 </details>
-<br>｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ﾟ☁︎｡ ⋆｡
+｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ﾟ☁︎｡ ⋆｡
