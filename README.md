@@ -3,7 +3,23 @@
 <br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level deverloper ⸜(｡˃ ᵕ ˂ )⸝♡
 
 <details>
-<summary>More about me</summary>
+<summary>More info about me</summary>
+  
++ 🙋‍♂️ Full name: Daniil Gurchin-Sychev (Даниил Гурчин-Сычёв)
++ 🎂 Birth date: 19th of April
+  + Age: 17 years
++ 🗣️ Languages:
+  + Native: Russian
+  + Others: English (about B1-level) and Japanese (less than N5-level)
++ 🧑‍💻 My computers:
+  + 🖥️ Desktop: GurWorkingHouse (AMD Ryzen 7 8700F / Nvidia RTX 4060/ 1tb / 32gb / Windows 11)
+  + 💻 Laptops: personal MacBook Air 2020 (M1 / 8-core graphics / 512gb / 8gb / macOS 15 - Sequoia) and GurBook (Intel Core i7 / Nvidia / 512gb / 28gb / Windows 11)
+  + 📟 Single-board: Raspbery Pi 4 Model B ( / / / 4gb / Ubuntu)
++ ❤️ My interests:
+  + 📸 Photography: using tele-leans (77mm and more)
+  + 🎶 Music generes: hip-hop, phonk and j-pop
+  + 🎵 Music artists: AJR and Hensonn
+  + ⛩️ Cultures: Russian and Japanese
 </details>
 
 > _Let's code and listen AJR songs!_
