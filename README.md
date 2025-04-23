@@ -7,7 +7,7 @@
   
 + 🙋‍♂️ Full name: Daniil Gurchin-Sychev (Даниил Гурчин-Сычёв)
 + 🎂 Birth date: 19th of April
-  + Age: 17 years
+  + Age: 18 years
 + 🗣️ Languages:
   + Native: Russian
   + Others: English (about B1-level) and Japanese (less than N5-level)
