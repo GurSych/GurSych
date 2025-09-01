@@ -1,7 +1,7 @@
 # 💫 About Me:
 **こんにちは!** (ノ^∇^)
-<br>I'm a programmer from Russia. I learn a lot of differnt things and want to become a high-level developer ⸜(｡˃ ᵕ ˂ )⸝♡
-<br>Student of MIET (National Research University of Electronic Technology)
+<br>I'm a programmer from Russia and a student of MIET (National Research University of Electronic Technology). I learn a lot of differnt things and want to become a high-level developer ⸜(｡˃ ᵕ ˂ )⸝♡
+<br>
 <br>_Я люблю МПСУ!_
 
 <details>
