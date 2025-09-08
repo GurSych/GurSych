@@ -88,7 +88,7 @@ int main() {
 ```
 </details>
 
-<details>
+<!--<details>
 <summary>ワイフ</summary>
 <img src="purah.jpg" alt="Purah">
-</details>
+</details>-->
