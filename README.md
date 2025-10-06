@@ -24,6 +24,7 @@
   + 🎶 Music generes: hip-hop, phonk and j-pop
   + 🎵 Music artists: AJR and Hensonn
   + ⛩️ Cultures: Russian and Japanese
++ 💔 Relationships: In unrequited love
 
 </details>
 
@@ -88,7 +89,7 @@ int main() {
 ```
 </details>
 
-<!--<details>
+<details>
 <summary>ワイフ</summary>
 <img src="purah.jpg" alt="Purah">
-</details>-->
+</details>
