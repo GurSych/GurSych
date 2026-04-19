@@ -9,7 +9,7 @@
   
 + 🙋‍♂️ Full name: Daniil Gurchin-Sychev (Даниил Гурчин-Сычёв)
 + 🎂 Birth date: 19th of April
-  + Age: 18 years
+  + Age: 19 years
 + 🗣️ Languages:
   + Native: Russian
   + Others: English (about B1-level) and Japanese (less than N5-level)
@@ -24,7 +24,7 @@
   + 🎶 Music generes: hip-hop, phonk and j-pop
   + 🎵 Music artists: AJR and Hensonn
   + ⛩️ Cultures: Russian and Japanese
-+ 💔 Relationships: In unrequited love
++ 💔 Relationships: In search...
 
 </details>
 
